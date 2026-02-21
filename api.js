@@ -189,6 +189,51 @@ const cafes = [
     ]
   },
   {
+    nome: "Café Gelado Simples",
+    descricao: "Refrescante e fácil de fazer em casa",
+    tempo: "5 minutos + tempo de resfriamento",
+    dificuldade: "Muito Fácil",
+    ingredientes: [
+      "200ml de café coado forte (resfriado)",
+      "Gelo",
+      "Leite ou leite vegetal (opcional)",
+	"Açúcar, mel ou xarope a gosto",
+	"Canela em pó (opcional)"    
+],
+    preparo: [
+      "Prepare um café coado mais forte que o normal",
+      "Deixe esfriar completamente (pode guardar na geladeira)",
+      "Encha um copo alto com gelo",
+      "Despeje o café gelado",
+      "Adicione leite se desejar",
+	"Adoce a gosto e misture bem",
+	"Finalize com uma pitada de canela se quiser"
+    ]
+  },
+
+  {
+    nome: "Café com Canela",
+    descricao: "Aromático e reconfortante, com toque especial",
+    tempo: "5 minutos",
+    dificuldade: "Muito Fácil",
+    ingredientes: [
+      "10g de café moído",
+      "100ml de água",
+      "1 pau de canela ou 1 colher de chá de canela em pó",
+	"Açúcar mascavo (opcional)",
+	"Leite (opcional)"    
+],
+    preparo: [
+      "Se usar pau de canela, quebre em pedaços pequenos",
+      "Misture o café moído com a canela",
+      "Prepare no coador como café tradicional",
+      "Ou adicione a canela junto com o pó no coador",
+      "Deixe a água passar lentamente",
+	"Adoce com açúcar mascavo se desejar",
+	"Sirva puro ou com um pouco de leite"
+    ]
+  },
+  {
     nome: "Affogato",
     descricao: "Sobremesa italiana: sorvete com café quente",
     tempo: "3 minutos",
