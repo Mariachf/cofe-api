@@ -138,7 +138,7 @@ http://localhost:3000/
 **cURL**
 
 ```bash
-  curl http://localhost:3000/cafes
+   http://localhost:3000/cafes
 ```
 
 **Fetch (Front-end)**
@@ -154,9 +154,8 @@ console.log(data);
 
  API com link:
 
-```bash
- cofe-api-production.up.railway.app
-```
+   [cofe-api-production.up.railway.app](https://cofe-api-production.up.railway.app/)
+
 
 ---
 
