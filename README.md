@@ -150,35 +150,12 @@ console.log(data);
 ```
 ---
 
-## 🌍 Deploy gratuito na Render (resumo)
+## 🌍 Deploy 
 
-**1.** Suba o projeto no GitHub
-
-**2.** Na Render: New > Web Service
-
-**3.** Selecione o repositório
-
-Configure:
-
-- Build Command: npm install
-
-- Start Command: npm start
-
-Depois, sua API fica com um link tipo:
+ API com link:
 
 ```bash
-  https://seuapp.onrender.com/cafes
-```
-
----
-
-## 📌 Estrutura sugerida
-
-```bash
-cofe-api/
-├─ api.js
-├─ package.json
-└─ README.md
+ cofe-api-production.up.railway.app
 ```
 
 ---
