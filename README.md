@@ -34,6 +34,16 @@ Exemplo de resposta:
     "dificuldade": "Fácil",
     "ingredientes": ["..."],
     "preparo": ["..."]
+
+  }
+]
+```
+Acompanhamentos:
+```json
+[
+  {
+    "nome": "Amaretti",
+    "description": "Biscoitos italianos de amêndoa que complementam perfeitamente",
   }
 ]
 ```
